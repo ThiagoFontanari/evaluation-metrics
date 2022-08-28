@@ -1,0 +1,3 @@
+# PROPOSTA DO MODELO
+
+	### Este modelo tem como objetivo demonstrar a aplicação de métricas de avaliação sobre um modelo, afim de avaliar a qualidade do seu aprendizado. Neste exemplo, foi implementado um modelo a partir de uma rede ResNet50, utilizando os pesos de treinamento da base Imagenet. A proposta é verificar como esse modelo se comporta ao ser utilizado para identificar defeitos em trilhos de trem. Para o treinamento, foi utilizada uma base de dados obtida em https://www.kaggle.com/datasets/gpiosenka/railway-track-fault-detection-resized-224-x-224.<br />
